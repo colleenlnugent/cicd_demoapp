@@ -7,4 +7,4 @@ build:
         image: python:2-alpine
         commands:
             - pip install -r requirements.txt
-            - pyting.py
+            -ython testing.py
